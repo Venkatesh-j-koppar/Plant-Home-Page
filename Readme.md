@@ -10,7 +10,7 @@
 I was able to apply css styles by using Internal style sheet. 
 Was able to use concepts of css like selectors which are used to target a particular class or a element. Got handson experience on using properties like margins, padding,borders etc.   
 
-![image](./Output.png)
+![image](./output.png)
 
 ## Time taken to complete this project:
 3 hrs
